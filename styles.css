@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("./1195318-3840x2160-desktop-4k-geometric-abstract-background-photo.jpg");
+    background-size: cover;
+    color: azure;
+}
+
+.watch {
+    text-align: center;
+}
+
+.display {
+    font-size: 3rem;
+}
